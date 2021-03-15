@@ -8,7 +8,7 @@ The following table shows notes, courses, challenges, and tutorials taken in pre
 
 | Order | Name | Type | Link |
 |--- | --- | --- | --- |
-| 1 | JavaScript For Pentesters | Course | https://www.pentesteracademy.com/course?id=11 |
+<span style="color:blue">| 1 | JavaScript For Pentesters | Course | https://www.pentesteracademy.com/course?id=11 |</span>
 | 2 | Edabit (Javascript, Java, PHP) | Challenges | https://edabit.com/ |
 | 3 | Simple Object Oriented Language Examples | Notes | N/A (I just wrote simple templates)
 | 4 | From SQL Injection to Shell | Tutorial | https://pentesterlab.com/exercises/from_sqli_to_shell/ |
